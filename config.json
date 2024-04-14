@@ -1,0 +1,14 @@
+{
+  "prefix": "!",
+  "categories": {},
+  "channels": {
+    "text": {},
+    "voice": {}
+  },
+  "roles": {},
+  "emojis": {},
+  "messages": {
+    "COOLDOWN_MESSAGE": "Il y a un cooldown de `<duration>` !"
+  },
+  "helloWords": []
+}
