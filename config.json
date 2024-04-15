@@ -2,7 +2,9 @@
   "prefix": "!",
   "categories": {},
   "channels": {
-    "text": {},
+    "text": {
+      "logs": "1229354032267788378"
+    },
     "voice": {}
   },
   "roles": {},
