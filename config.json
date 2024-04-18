@@ -1,11 +1,16 @@
 {
   "prefix": "!",
-  "categories": {},
+  "categories": {
+    "voice": "1228352557781614643"
+  },
   "channels": {
     "text": {
-      "logs": "1229354032267788378"
+      "logs": "1229354032267788378",
+      "welcome": "1230407623220662282"
     },
-    "voice": {}
+    "voice": {
+      "channelCreator": "1229679159307931669"
+    }
   },
   "roles": {},
   "emojis": {},
