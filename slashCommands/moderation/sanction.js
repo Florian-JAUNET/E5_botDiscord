@@ -11,7 +11,7 @@ module.exports = {
   options: [
     {
       name: "user",
-      description: "Test de récupération de données",
+      description: "L'utilisateur dont vous voulez voir les sanctions",
       type: 6,
       required: true,
     },
