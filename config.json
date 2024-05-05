@@ -1,18 +1,21 @@
 {
   "prefix": "!",
   "categories": {
-    "voice": "1228352557781614643"
+    "voice": "1236338851820212351",
+    "support": "1236338851820212354"
   },
   "channels": {
     "text": {
-      "logs": "1229354032267788378",
-      "welcome": "1230407623220662282"
+      "logs": "1236338852088512646",
+      "welcome": "1236338851820212349"
     },
     "voice": {
-      "channelCreator": "1229679159307931669"
+      "channelCreator": "1236338851820212353"
     }
   },
-  "roles": {},
+  "roles": {
+    "staff": "1236338851820212347"
+  },
   "emojis": {},
   "messages": {
     "COOLDOWN_MESSAGE": "Il y a un cooldown de `<duration>` !"
