@@ -37,6 +37,10 @@ module.exports = {
           name: "ready",
           value: "ready",
         },
+        {
+          name: "voiceStateUpdate",
+          value: "voiceStateUpdate",
+        },
       ],
     },
   ],
